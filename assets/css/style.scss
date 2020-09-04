@@ -1,0 +1,7 @@
+---
+---
+
+$header-bg-color-secondary: {{ site.theme_color }} !default;
+$section-headings-color: {{ site.theme_color }} !default;
+
+@import "{{ site.theme }}";
