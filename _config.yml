@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "Introduction to Digital Culture"
+description: "Syllabus"
+theme_color: "#e6142d"
+plugins:
+  - jemoji
