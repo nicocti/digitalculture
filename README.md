@@ -4,14 +4,14 @@ physical / digital
 
 ### Outline
 
-  - [0. 01101000 01101001 00100001 ](#0) [(slides)](00)
-  - [1. Why does the internet works ?](#1) [(slides)](01)
-  - [2. Will GAFAM take over states ?](#2) [(slides)](02)
-  - [3. Coding](#4) [(slides)](04)
-  - [4. Cybersecurity](#5) [(slides)](05)
-  - [5. What's the IQ of AI ?](#6) [(slides)](06)
-  - [6. Conclusion & Presentations](#7)
-  - [Grading & Assessment](#grading)
+  - [0. 01101000 01101001 00100001 ](#0-01101000-01101001-00100001) [(slides)](00)
+  - [1. Why does the internet works ?](#1-why-does-the-internet-works-) [(slides)](01)
+  - [2. Will GAFAM take over states ?](#2-will-gafam-take-over-states-) [(slides)](02)
+  - [3. Coding](#3-coding) [(slides)](03)
+  - [4. Cybersecurity](#4-cybersecurity) [(slides)](04)
+  - [5. What's the IQ of AI ?](#5-whats-the-iq-of-ai-) [(slides)](05)
+  - [6. Conclusion & Presentations](#6-conclusion-presentations)
+  - [Grading & Assessment](#grading--assessement)
   - [Resources](#resources)
 
 ### 0. 01101000 01101001 00100001
