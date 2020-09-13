@@ -42,7 +42,7 @@ physical / digital
     - [Goldsmith, Jack L. & Tim. Wu. Who controls the Internet? illusions of a borderless world / 2006](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006798012505808)
     - [DeNardis, Laura. The Global War for Internet Governance / 2015](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006846570605808)
 
-### 2.  Will GAFAM take over states ?
+### 2. Will GAFAM take over states ?
 
   - The economy of web platforms
   - Network effects
