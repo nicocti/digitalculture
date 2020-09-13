@@ -4,13 +4,13 @@ physical / digital
 
 ### Outline
 
-  - [0. 01101000 01101001 00100001 ](#0-01101000-01101001-00100001) [(slides)](00)
-  - [1. Why does the internet works ?](#1-why-does-the-internet-works-) [(slides)](01)
-  - [2. Will GAFAM take over states ?](#2-will-gafam-take-over-states-) [(slides)](02)
-  - [3. Coding](#3-coding) [(slides)](03)
-  - [4. Cybersecurity](#4-cybersecurity) [(slides)](04)
-  - [5. What's the IQ of AI ?](#5-whats-the-iq-of-ai-) [(slides)](05)
-  - [6. Conclusion & Presentations](#6-conclusion-presentations)
+  - [0. 01101000 01101001 00100001](#0-01101000-01101001-00100001)
+  - [1. Why does the internet work ?](#1-why-does-the-internet-work-)
+  - [2. Will GAFAM take over states ?](#2-will-gafam-take-over-states-)
+  - [3. Coding workshop](#3-coding-workshop)
+  - [4. Cybersecurity](#4-cybersecurity)
+  - [5. What's the IQ of AI ?](#5-whats-the-iq-of-ai-)
+  - [6. Conclusion & Presentations](#6-conclusion--presentations)
   - [Grading & Assessment](#grading--assessement)
   - [Resources](#resources)
 
@@ -25,8 +25,10 @@ physical / digital
     - [Harvard CS50 - Understanding technology](https://youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
     - [Computerphile - Alan Turing and Enigma](https://youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I)
     - [John Perry Barlow. A Declaration of the Independence of Cyberspace / 1996](https://www.eff.org/fr/cyberspace-independence)
+    - [Lawrence Lessig - Code is Law. On Liberty in Cyberspace / 2001](https://harvardmagazine.com/2000/01/code-is-law-html)
+    - [Werner Herzog - Lo and Behold](https://youtu.be/Zc1tZ8JsZvg)
 
-### 1. Why does the internet works ?
+### 1. Why does the internet work ?
 
   - Deep dive in a network of networks:
     - The infrastructure
@@ -40,7 +42,7 @@ physical / digital
     - [Goldsmith, Jack L. & Tim. Wu. Who controls the Internet? illusions of a borderless world / 2006](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006798012505808)
     - [DeNardis, Laura. The Global War for Internet Governance / 2015](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006846570605808)
 
-### 4.  Will GAFAM take over states ?
+### 2.  Will GAFAM take over states ?
 
   - The economy of web platforms
   - Network effects
@@ -49,22 +51,30 @@ physical / digital
   - Interoperability vs. Competition
   - **Additional resources:**
     - [Finance Watch - Libra: Heads I win - tails you loose](https://finance-watch.org/wp-content/uploads/2019/07/Libra-Paper_Finance-Watch_EN.pdf)
-    - Jeff Orlowski, Davis Coombe & Vickie Curtis - The Social Dilemma
-    - Karim Amer, Jehane Noujaim - The Great Hack
+    - [Jeff Orlowski, Davis Coombe & Vickie Curtis - The Social Dilemma](https://youtu.be/uaaC57tcci0)
+    - [Karim Amer, Jehane Noujaim - The Great Hack](https://youtu.be/iX8GxLP1FHo)
+    - [David Bernet - Democracy](https://youtu.be/Vo3gziGgW_E)
 
-### 3. Cyber war ?
+### 3. Coding Workshop
+  - Introduction to programming
+  - Workshop on a language or tool chosen with you.
+  - **Additional resources:**
+    - [Eric Raymond. The Cathedral and the Bazaar / 1998](https://firstmonday.org/ojs/index.php/fm/article/view/1472)
+
+### 4. Cybersecurity
 
   - Cryptography
-  - Dark Web
+  - Threats
   - Hackers
-  - PsyOps
-  - GDPR
-  - Due
+  - Due individual note
   - **Additional resources:**
+    - [Alex Gibney - Zero Days](https://youtu.be/PJBBRUraKgo)
+    - [Alex Gibney - We steal secrets](https://youtu.be/WUjA_hcYzzI)
     - [Dominique Cardon - Fake news panic](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115387&pageid=2886)
     - [Marc Meillassoux, Mihaela Gladovic - Nothing to hide](https://youtube.com/watch?v=djbwzEIv7gE)
-    - David Bernet - Democracy
-    - Laura Poitras - Citizen Four
+    - [Laura Poitras - Citizen Four](https://youtu.be/XiGwAvd5mvM)
+    - [Brian Knappenberger - We Are Legion: The Story of the Hacktivists](https://youtu.be/-zwDhoXpk90)
+    - [Simon Klose - TPB AFK](https://youtu.be/eTOKXCEwo_8)
 
 
 ### 5. What's the IQ of AI ?
@@ -82,6 +92,31 @@ physical / digital
 
 
 ### Grading & Assessement
+
+
+#### 1. Participation (up to 1 extra point)
+
+You are requested to be proactively involved during classes and to participate in collective discussions.
+You also need to be active online and contribute to discussions, share knowledge, thoughts and reflections with your classmates via the tools retained for this purpose.
+
+#### 2. Individual note (30%) - due 5th session
+
+From reading a scientific article, a book or a long-read article, you will comment a story, a concept or a theory that will be useful to conduct your digital exploration.
+
+  - This is a fairly free exercise, but should be no more than two pages long, written in English or in French.
+  - This is an individual exercise but you will be able to share it with other members of your group with a goal to extract ideas that will structure your final exploration.
+  - Choose an article and extract a concept that is relevant to your exploration. Your personal note may explain the main point of the chosen document, go over its surrounding debates, and show its relevance regarding your exploration topic.
+
+#### 3. Digital exploration (70%) - deadline end of term ?
+
+In groups of 4 to 6, you will undertake a study about a practice, a service, a company, a law... of your choice in the digital space.
+The aim of this project is for you to explore some aspects of the digital revolution and to practice digital tools.
+
+  - Your exploration will rely on bibliographical or webographical references (academic papers, web pages,  press articles or reports...) but also on your own empirical data (interviews, questionnaires, ethnography, online data collection or experiments..).
+  - The submission of this exploration will have to be done as a digital-first format (website, video series, podcast, but also possibly Facebook, Instagram, Tiktok, etc.) and/or rely on digital investigations (data collection and analysis).
+  - You exploration will showcase the overall problematic tackled, the analysis and methodology, interpretations and synthesis of the results.
+  - Keep in mind that a good digital exploration is based on a well-define research topic, a critical analysis and a digital format providing a creative experience.
+
 
 ### Resources
 
