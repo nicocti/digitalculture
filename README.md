@@ -1,6 +1,6 @@
 ## 🦾 Parts of the digital revolution
 
-**The digital revolution is everywhere.** It invites itself into all debates, abolishes borders, shakes up norms and imposes a universal language. It is transforming whole sections of the traditional economy thanks to dematerialization and disintermediation. **But the digital is moving away from the Californian dream**, relaxed, idealistic and libertarian. Exponential digitalization brings its share of concerns: domination of economic interests, dystopian surveilance, destruction of values and jobs, dilution and dispossession of identity.
+**The digital revolution is everywhere.** It invites itself into all debates, abolishes borders, shakes up norms and imposes a universal language. It is transforming whole sections of the traditional economy thanks to dematerialization and disintermediation. **But the digital is moving away from the Californian dream**, relaxed, idealistic and libertarian. Exponential digitalization brings its share of concerns: domination of economic interests, dystopian surveillance, destruction of values and jobs, dilution and dispossession of identity.
 
 But the digital world escapes any established standards of governance, public and corporate ones. **In order to recover some control over this revolution shaking up democracies, public space and public policies, we need to better understand how it works.**
 
@@ -19,7 +19,7 @@ On my side, **I will try to demystify these technologies**. They are often based
   - [4. 🔐 Cybersecurity](#4--cybersecurity)
   - [5. 🤖 What's the IQ of AI ?](#5--whats-the-iq-of-ai-)
   - [6. Conclusion & Presentations](#6-conclusion--presentations)
-  - [Grading & Assessment](#grading--assessement)
+  - [Grading & Assessment](#grading--assessment)
   - [Resources](#resources)
 
 ### 0. 🔌 01101000 01101001 00100001
@@ -89,7 +89,7 @@ On my side, **I will try to demystify these technologies**. They are often based
 ### 5. 🤖 What's the IQ of AI ?
 
   - Big data
-  - Articifical intelligence
+  - Artificial intelligence
   - What's next ?
   - **Additional resources:**
     - [O’Neil Cathy. Weapons of math destruction  : how big data increases inequality and threatens democracy / 2016](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991006090739705808)
@@ -101,7 +101,7 @@ On my side, **I will try to demystify these technologies**. They are often based
   - Explorations wrap up
 
 
-### Grading & Assessement
+### Grading & Assessment
 
 
 #### 1. Participation (up to 1 extra point)
