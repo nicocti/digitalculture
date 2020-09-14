@@ -1,12 +1,20 @@
 ## 🦾 Parts of the digital revolution
 
-physical / digital
+**The digital revolution is everywhere.** It invites itself into all debates, abolishes borders, shakes up norms and imposes a universal language. It is transforming whole sections of the traditional economy thanks to dematerialization and disintermediation. **But the digital is moving away from the Californian dream**, relaxed, idealistic and libertarian. Exponential digitalization brings its share of concerns: domination of economic interests, dystopian surveilance, destruction of values and jobs, dilution and dispossession of identity.
+
+But the digital world escapes any established standards of governance, public and corporate ones. **In order to recover some control over this revolution shaking up democracies, public space and public policies, we need to better understand how it works.**
+
+To do so, this course will proceed along three axes: **decoding, coding and exploring.** Decoding will be a cross-disciplinary approach to the digital, spanning history, sociology, politics, and science. Coding will involve working with, and creating, digital objects (websites, videos, podcasts, visualizations...). Exploring will take the form of a digital exploration: an investigation on the social, economic and/or political impact of digital technologies on human behaviors and practices.
+
+I recommend you all to **watch Dominique Cardon's short [videos](https://moodle.sciences-po.fr/course/view.php?id=6885)**, which are - to my knowledge - not available elsewhere. They will help us understand how digital technology is revolutionizing politics, the economy and society as a whole (and practice french for none natives !).
+
+On my side, **I will try to demystify these technologies**. They are often based on simple principles and intuitions, that are essential to understand what is at stake and what room for maneuver is available for the future.
 
 ### Outline
 
   - [0. 🔌 01101000 01101001 00100001](#0--01101000-01101001-00100001)
   - [1. 🌐 Why does the internet work ?](#1--why-does-the-internet-work-)
-  - [2. 🏛 Will GAFAM take over states ?](#2-will-gafam-take-over-states-)
+  - [2. 🏛 Will GAFAM take over states ?](#2--will-gafam-take-over-states-)
   - [3. 🧑‍💻 Coding workshop](#3--coding-workshop)
   - [4. 🔐 Cybersecurity](#4--cybersecurity)
   - [5. 🤖 What's the IQ of AI ?](#5--whats-the-iq-of-ai-)
@@ -101,26 +109,26 @@ You also need to be active online and contribute to discussions, share knowledge
 
 #### 2. Individual note (30%) - due 5th session
 
-From reading a scientific article, a book or a long-read article, you will comment a story, a concept or a theory that will be useful to conduct your digital exploration.
+From reading a scientific article, a book or a long-read article, you will **comment a story, a concept or a theory that will be useful to conduct your digital exploration**.
 
-  - This is a fairly free exercise, but should be no more than two pages long, written in English or in French.
-  - This is an individual exercise but you will be able to share it with other members of your group with a goal to extract ideas that will structure your final exploration.
-  - Choose an article and extract a concept that is relevant to your exploration. Your personal note may explain the main point of the chosen document, go over its surrounding debates, and show its relevance regarding your exploration topic.
+  - This is a fairly free exercise, but should be **no more than two pages long**, written in English or in French.
+  - This is an **individual exercise** but you will be able to share it with other members of your group with a goal to extract ideas that will structure your final exploration.
+  - Choose an article and extract a concept that is relevant to your exploration. Your personal note may **explain the main point of the chosen document, go over its surrounding debates, and show its relevance regarding your exploration topic**.
 
 #### 3. Digital exploration (70%) - deadline end of term ?
 
-In groups of 4 to 6, you will undertake a study about a practice, a service, a company, a law... of your choice in the digital space.
+In **groups of 4 to 6**, you will undertake **a study about a practice, a service**, a company, a law... of your choice in the digital space.
 The aim of this project is for you to explore some aspects of the digital revolution and to practice digital tools.
 
-  - Your exploration will rely on bibliographical or webographical references (academic papers, web pages,  press articles or reports...) but also on your own empirical data (interviews, questionnaires, ethnography, online data collection or experiments..).
-  - The submission of this exploration will have to be done as a digital-first format (website, video series, podcast, but also possibly Facebook, Instagram, Tiktok, etc.) and/or rely on digital investigations (data collection and analysis).
-  - You exploration will showcase the overall problematic tackled, the analysis and methodology, interpretations and synthesis of the results.
-  - Keep in mind that a good digital exploration is based on a well-define research topic, a critical analysis and a digital format providing a creative experience.
+  - Your exploration will **rely on bibliographical or webographical references** (academic papers, web pages,  press articles or reports...) but also on your **own empirical data** (interviews, questionnaires, ethnography, online data collection or experiments..).
+  - The submission of this exploration will have to be done as a **digital-first format** (website, video series, podcast, but also possibly Facebook, Instagram, Tiktok, etc.) and/or **rely on digital investigations** (data collection and analysis).
+  - You exploration will showcase **the overall problematic tackled, the analysis and methodology, interpretations and synthesis of the results**.
+  - Keep in mind that a good digital exploration is based on a **well-define research topic**, a **critical analysis** and a digital format providing a **creative experience**.
 
 
 ### Resources
 
-  - Online learning:
+  - **Online learning:**
     - The best course to learn computer science from scratch, CS50, is available on [YT](https://youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) and through a [MOOC](https://edx.org/course/cs50s-introduction-to-computer-science)
     - A more practical introduction to coding can be found at [codecademy.com](https://codecademy.com/)
     - For data wrangling, that could be useful in your studies, [udacity.com](https://udacity.com/courses/all) has some very good hands on courses. I recommend (from simple to complex):
@@ -129,5 +137,5 @@ The aim of this project is for you to explore some aspects of the digital revolu
       - [Intro to data science](https://udacity.com/course/intro-to-data-science--ud359)
       - [Intro to machine learning](https://udacity.com/course/intro-to-machine-learning--ud120)
 
-  - Books:
+  - **Books:**
     - [Hakim Bey - TAZ, Temporary Autonomous Zone](http://www.lyber-eclat.net/lyber/taz.html)
