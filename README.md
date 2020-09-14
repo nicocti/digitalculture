@@ -1,20 +1,20 @@
-## Parts of the digital revolution
+## 🦾 Parts of the digital revolution
 
 physical / digital
 
 ### Outline
 
-  - [0. 01101000 01101001 00100001](#0-01101000-01101001-00100001)
-  - [1. Why does the internet work ?](#1-why-does-the-internet-work-)
-  - [2. Will GAFAM take over states ?](#2-will-gafam-take-over-states-)
-  - [3. Coding workshop](#3-coding-workshop)
-  - [4. Cybersecurity](#4-cybersecurity)
-  - [5. What's the IQ of AI ?](#5-whats-the-iq-of-ai-)
+  - [0. 🔌 01101000 01101001 00100001](#0--01101000-01101001-00100001)
+  - [1. 🌐 Why does the internet work ?](#1--why-does-the-internet-work-)
+  - [2. 🏛 Will GAFAM take over states ?](#2-will-gafam-take-over-states-)
+  - [3. 🧑‍💻 Coding workshop](#3--coding-workshop)
+  - [4. 🔐 Cybersecurity](#4--cybersecurity)
+  - [5. 🤖 What's the IQ of AI ?](#5--whats-the-iq-of-ai-)
   - [6. Conclusion & Presentations](#6-conclusion--presentations)
   - [Grading & Assessment](#grading--assessement)
   - [Resources](#resources)
 
-### 0. 01101000 01101001 00100001
+### 0. 🔌 01101000 01101001 00100001
 
   - Introduction
   - Roots of the digital revolution
@@ -28,7 +28,7 @@ physical / digital
     - [Lawrence Lessig - Code is Law. On Liberty in Cyberspace / 2001](https://harvardmagazine.com/2000/01/code-is-law-html)
     - [Werner Herzog - Lo and Behold](https://youtu.be/Zc1tZ8JsZvg)
 
-### 1. Why does the internet work ?
+### 1. 🌐 Why does the internet work ?
 
   - Deep dive in a network of networks:
     - The infrastructure
@@ -42,7 +42,7 @@ physical / digital
     - [Goldsmith, Jack L. & Tim. Wu. Who controls the Internet? illusions of a borderless world / 2006](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006798012505808)
     - [DeNardis, Laura. The Global War for Internet Governance / 2015](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006846570605808)
 
-### 2. Will GAFAM take over states ?
+### 2. 🏛 Will GAFAM take over states ?
 
   - The economy of web platforms
   - Network effects
@@ -55,13 +55,13 @@ physical / digital
     - [Karim Amer, Jehane Noujaim - The Great Hack](https://youtu.be/iX8GxLP1FHo)
     - [David Bernet - Democracy](https://youtu.be/Vo3gziGgW_E)
 
-### 3. Coding Workshop
+### 3. 🧑‍💻 Coding Workshop
   - Introduction to programming
   - Workshop on a language or tool chosen with you.
   - **Additional resources:**
     - [Eric Raymond. The Cathedral and the Bazaar / 1998](https://firstmonday.org/ojs/index.php/fm/article/view/1472)
 
-### 4. Cybersecurity
+### 4. 🔐 Cybersecurity
 
   - Cryptography
   - Threats
@@ -77,7 +77,7 @@ physical / digital
     - [Simon Klose - TPB AFK](https://youtu.be/eTOKXCEwo_8)
 
 
-### 5. What's the IQ of AI ?
+### 5. 🤖 What's the IQ of AI ?
 
   - Big data
   - Articifical intelligence
