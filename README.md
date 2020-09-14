@@ -73,6 +73,7 @@ On my side, **I will try to demystify these technologies**. They are often based
 
   - Cryptography
   - Threats
+  - Surveillance
   - Hackers
   - Due individual note
   - **Additional resources:**
@@ -89,6 +90,7 @@ On my side, **I will try to demystify these technologies**. They are often based
 
   - Big data
   - Articifical intelligence
+  - What's next ?
   - **Additional resources:**
     - [O’Neil Cathy. Weapons of math destruction  : how big data increases inequality and threatens democracy / 2016](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991006090739705808)
 
