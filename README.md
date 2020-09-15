@@ -12,7 +12,7 @@ On my side, **I will try to demystify these technologies**. They are often based
 
 ### Outline
 
-  - [0. 🔌 01101000 01101001 00100001](#0--01101000-01101001-00100001)
+  - [0. 🔌 01101000 01101001 00100001](#0--01101000-01101001-00100001) [(slides)](00)
   - [1. 🌐 Why does the internet work ?](#1--why-does-the-internet-work-)
   - [2. 🏛 Will GAFAM take over states ?](#2--will-gafam-take-over-states-)
   - [3. 🧑‍💻 Coding workshop](#3--coding-workshop)
