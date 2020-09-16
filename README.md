@@ -35,6 +35,7 @@ On my side, **I will try to demystify these technologies**. They are often based
     - [John Perry Barlow. A Declaration of the Independence of Cyberspace / 1996](https://www.eff.org/fr/cyberspace-independence)
     - [Lawrence Lessig - Code is Law. On Liberty in Cyberspace / 2001](https://harvardmagazine.com/2000/01/code-is-law-html)
     - [Werner Herzog - Lo and Behold](https://youtu.be/Zc1tZ8JsZvg)
+    - [Walter Isaacson - The innovators  / 2015](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991003339739705808)
 
 ### 1. 🌐 Why does the internet work ?
 
@@ -49,6 +50,7 @@ On my side, **I will try to demystify these technologies**. They are often based
     - [Yochai Benkler. The Wealth of Networks: How Social Production Transforms Markets and Freedom / 2006](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gsggji/cdi_askewsholts_vlebooks_9780300127232)
     - [Goldsmith, Jack L. & Tim. Wu. Who controls the Internet? illusions of a borderless world / 2006](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006798012505808)
     - [DeNardis, Laura. The Global War for Internet Governance / 2015](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006846570605808)
+    - [Janet Abbate. Inventing the Internet / 1999](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006868619205808)
 
 ### 2. 🏛 Will GAFAM take over states ?
 
@@ -84,6 +86,7 @@ On my side, **I will try to demystify these technologies**. They are often based
     - [Laura Poitras - Citizen Four](https://youtu.be/XiGwAvd5mvM)
     - [Brian Knappenberger - We Are Legion: The Story of the Hacktivists](https://youtu.be/-zwDhoXpk90)
     - [Simon Klose - TPB AFK](https://youtu.be/eTOKXCEwo_8)
+    - [Steven Levy - Hackers: Heroes of the Computer Revolution / 1984](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gsggji/cdi_proquest_ebookcentral_EBC563956)
 
 
 ### 5. 🤖 What's the IQ of AI ?
