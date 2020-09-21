@@ -44,13 +44,16 @@
             <section data-preload
                 data-background-image='https://i.pinimg.com/originals/7f/3d/92/7f3d9236bd85f339f6a22d00561508b7.png'>
             </section>
+            <section data-background-iframe="https://www.youtube.com/embed/mCq8-xTH7jA" data-background-interactive>
+                <!-- How Computers Work: What Makes a Computer, a Computer? -->
+            </section>
             <section data-markdown data-preload
                 data-background-image='https://www.welivesecurity.com/wp-content/uploads/2017/10/babbage-engine-main.jpg'>
                 ### Charles Babbage
                 #### 1822
             </section>
             <section data-markdown data-preload
-                data-background-image='https://makezine.com/wp-content/uploads/2015/12/Ada_Lovelace_portrait-e1449694272361.jpg'>
+                data-background-image='https://media.boingboing.net/wp-content/uploads/2015/12/056c026d-1c66-4d42-9fae-a8e96df290c5-1020x911.jpg'>
                 ### Ada Lovelace
             </section>
             <section data-markdown>
@@ -69,9 +72,6 @@
                 #### 1949
             </section>
             <section data-markdown data-preload
-                data-background-image='https://i.pinimg.com/originals/09/30/3c/09303c9d80686c0a38409c4f0777c97b.jpg'>
-            </section>
-            <section data-markdown data-preload
                 data-background-image='https://www.thoughtco.com/thmb/0AwCceATGeaM2sAStLmNq7INccY=/2309x1299/filters:fill(auto,1)/GettyImages-678914485-58e5bd2e5f9b58ef7e205a09.jpg'>
                 ### Transistor
                 #### 1947
@@ -85,6 +85,12 @@
             <section data-markdown>
                 ### Decimal
             </section>
+            <section data-markdown data-preload data-background-image="https://wallpapercave.com/wp/4w9SBjg.png">
+                ### Binary
+            </section>
+            <section data-background-iframe="https://www.youtube.com/embed/USCBCmwMCDA" data-background-interactive>
+                <!-- How Computers Work: Binary & Data -->
+            </section>
             <section data-markdown>
                 $10^2$ | $10^1$ | $10^0$
                 -|-|-
@@ -92,14 +98,11 @@
 
                 ### $1 * 100 + 2 * 10 + 3 * 1$
             </section>
-            <section data-markdown data-preload data-background-image="https://wallpapercave.com/wp/4w9SBjg.png">
-                ### Binary
-            </section>
             <section data-markdown>
-| $2^6$ | $2^5$ | $2^4$ | $2^3$ | $2^2$ | $2^2$ | $2^0$
-|-------|-------|-------|-------|-------|---| --- |
-| 64    | 32    | 16    | 8     | 4     | 2 | 1 |
-| 1     | 1     | 1     | 0     | 1     | 1 | 1 |
+                | $2^6$ | $2^5$ | $2^4$ | $2^3$ | $2^2$ | $2^2$ | $2^0$
+                |-------|-------|-------|-------|-------|---| --- |
+                | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+                | 1 | 1 | 1 | 0 | 1 | 1 | 1 |
             </section>
             <section data-markdown>
                 <textarea data-template>
@@ -197,6 +200,8 @@ Dec Hex      Bin  |  Dec Hex      Bin  |  Dec Hex      Bin  |  Dec Hex      Bin
         // - https://revealjs.com/config/
         Reveal.initialize({
             hash: true,
+            preloadIframes: true,
+            viewDistance: 10,
 
             // Learn about plugins: https://revealjs.com/plugins/
             plugins: [RevealMarkdown, RevealHighlight, RevealZoom, RevealMath]
