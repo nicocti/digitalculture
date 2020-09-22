@@ -51,6 +51,8 @@ On my side, **I will try to demystify these technologies**. They are often based
     - [Goldsmith, Jack L. & Tim. Wu. Who controls the Internet? illusions of a borderless world / 2006](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006798012505808)
     - [DeNardis, Laura. The Global War for Internet Governance / 2015](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006846570605808)
     - [Janet Abbate. Inventing the Internet / 1999](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006868619205808)
+    - [Julia Evans. Networking Ack!](https://jvns.ca/networking-zine.pdf)
+    - [Kieron O’Hara, Wendy Hall. Four Internets: The Geopolitics of Digital Governance](https://www.cigionline.org/sites/default/files/documents/Paper%20no.206web.pdf)
 
 ### 2. 🏛 Will GAFAM take over states ?
 
