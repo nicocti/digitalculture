@@ -53,6 +53,7 @@ On my side, **I will try to demystify these technologies**. They are often based
     - [Janet Abbate. Inventing the Internet / 1999](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1gfac67/alma991006868619205808)
     - [Julia Evans. Networking Ack!](https://jvns.ca/networking-zine.pdf)
     - [Kieron O’Hara, Wendy Hall. Four Internets: The Geopolitics of Digital Governance](https://www.cigionline.org/sites/default/files/documents/Paper%20no.206web.pdf)
+    - [Castells Manuel. The Internet galaxy  : reflections on the Internet, business, and society / 2001](https://catalogue-bibliotheque.sciencespo.fr/permalink/33USPC_SPO/1d4eftp/alma991003414439705808)
 
 ### 2. 🏛 Will GAFAM take over states ?
 
