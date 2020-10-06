@@ -55,12 +55,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal ::selection {
   color: #fff;
-  background: #bee4fd;
+  background: #414141;
   text-shadow: none; }
 
 .reveal ::-moz-selection {
   color: #fff;
-  background: #bee4fd;
+  background: #414141;
   text-shadow: none; }
 
 .reveal .slides section,
@@ -84,7 +84,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
-  text-shadow: none;
+  text-shadow: 2px 2px 0px rgba(100,100,100);
   word-wrap: break-word; }
 
 .reveal h1 {
