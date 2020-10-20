@@ -16,7 +16,7 @@ On my side, **I will try to demystify these technologies**. They are often based
   - [1. 🌐 Why does the internet work ?](#1--why-does-the-internet-work-) [(slides)](01)
   - [2. 🏛 Will GAFAM take over states ?](#2--will-gafam-take-over-states-) [(slides)](02)
   - [3. 🧑‍💻 Coding workshop](#3--coding-workshop)
-  - [4. 🔐 Cybersecurity](#4--cybersecurity)
+  - [4. 🔐 Cybersecurity](#4--cybersecurity) [(slides)](04)
   - [5. 🤖 What's the IQ of AI ?](#5--whats-the-iq-of-ai-)
   - [6. Conclusion & Presentations](#6-conclusion--presentations)
   - [Grading & Assessment](#grading--assessment)
